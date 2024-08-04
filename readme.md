@@ -36,3 +36,22 @@ Além de possibilitar a troca e distribuição de itens, o sistema oferece as se
 Este projeto tem como finalidade fortalecer a capacidade de resposta e adaptação das comunidades diante de desastres climáticos, promovendo a resiliência e a solidariedade.
 
 ## Tecnologias Utilizadas
+Para a codificação do projeto, separamos as tecnologias apresentandas abaixo em três grandes vertentes: a **Prototipação, Back-End** e **Front-End**.
+### Prototipação
+- Figma: utilizamos o a ferramenta para a elaboração e desenvolvimento inicial do projeto, a fim de uma melhor organização de projeto.
+- Link do Protótipo: [Figma](https://www.figma.com/design/ZieADXKTLMxOgYU6LNvReM/Prototipo_ByteBusters?node-id=0-1&t=S73g9ZgKPCUOV2aG-1)
+
+### Back-End
+- Java: nossa aplicação foi desenvolvida baseada na linguagem Java, utilizando mais especificamente do framework Spring Boot, para fazer a conexão da API com o banco de dados e o Front-End
+- Banco de dados relacional: para que as principais funcionalidades do sistema possa ser executada de maneira eficiente, utilizamos um banco de dados relacional para o armazenamento e consultas. No caso utilizamos o Postgree SQL
+
+### Front-End
+- HTML: Utilizado para estruturar o conteúdo das páginas.
+- CSS: Utilizado para estilizar os elementos HTML e proporcionar uma melhor experiência visual aos usuários.
+- JavaScript: Utilizado para adicionar interatividade e dinamismo às páginas, melhorando a experiência do usuário.
+
+## Contribuidores do projeto
+- Bernardo Buhr [@bernardobuhrmendonca](https://github.com/bernardobuhrmendonca)
+- Breno Santos [@DevBrenoSantos](https://github.com/DevBrenoSantos)
+- Danilo Ramos [@RedPartyDan](https://github.com/RedPartyDan)
+- Felipe Gurgel [@FelipeGA02](https://github.com/FelipeGA02)
