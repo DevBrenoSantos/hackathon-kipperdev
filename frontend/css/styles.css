@@ -1,0 +1,55 @@
+/* ======== RESET =========*/
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* ======== Root =========*/
+
+:root {
+    font-size: 62.5%;
+    /* fonts type */
+    --title-font: 'Montserrat', sans-serif;
+    --text-font: 'Roboto', sans-serif;
+
+    /* fonts size */
+    --large-font-size: 2.0rem;
+    --small-font-size: 1.2rem;
+
+    /* colors */
+    --bgcolor: #2C3E50;
+    --title-color: #27AE60;
+    --principalText-color: #34495E;
+    --primeButtom-color:#27AE60;
+    --primeButtomText-color:#FFFFFF;
+    --secButtom-color:#F1C40F;
+    --secButtomText-color:#2C3E50;
+    --notification-color:#E74C3C;
+    --notificationText-color:#FFFFFF;
+    --sectionbg-color:#ECF0F1;
+}

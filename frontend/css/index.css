@@ -1,0 +1,99 @@
+header, .navbar{
+    background-color: var(--bgcolor);
+}
+
+#logo{
+    width: 2vw;
+}
+
+.navbar{
+    padding: 1rem;
+    border-bottom: 2px solid white;
+}
+
+p, li{
+    color: var(--primeButtomText-color);
+    font-size: 14px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: var(--notificationText-color);
+}
+
+.navbar-brand:hover{
+    color: var(--notificationText-color);
+}
+
+#navbar-links a{
+    color: var(--primeButtomText-color);
+    font-size: 0.6vw;
+    font-family: var(--title-font);
+    padding: 0 2rem;
+}
+
+header{
+    height: 80vh;
+    margin-top: 1px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.banner-container{
+    width: 100%;
+}
+
+#banner-title{
+    color: white;
+    font-family: var(--text-font);
+    font-size: 5rem;
+}
+
+#banner-subtitle{
+    font-family: var(--text-font);
+    font-size: 2rem;
+}
+
+.banner-buttons{
+    width: 100%;
+}
+
+.banner-buttons button{
+    border-radius: 30px;
+    background-color: var(--primeButtom-color);
+    color: var(--primeButtomText-color);
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    font-size: 15px;
+}
+
+#section-container {
+    width: 100%;
+    background-color: var(--bgcolor);
+}
+
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    background-color: var(--sectionbg-color);
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.subtitle{
+    color: var(--title-color);
+}
+
+.row li, .row p{
+    color: var(--principalText-color);
+}
